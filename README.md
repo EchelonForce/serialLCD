@@ -17,3 +17,5 @@ sudo crontab -e
 add a line: @reboot python /home/pi/serialLCD/serialLCD.py &
 
 Reboot.
+
+The IP address code is from this SO post: http://stackoverflow.com/a/9267833
